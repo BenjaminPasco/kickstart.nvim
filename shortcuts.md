@@ -1,7 +1,11 @@
 # comment:
 
-- to add all the commands
+- to add all the shortcuts
 
 # telescope:
 
-- add commands
+- add shortcuts
+
+# treesitter:
+
+- add shortcuts

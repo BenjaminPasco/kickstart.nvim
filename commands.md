@@ -19,3 +19,7 @@ more at :help fugitive
 # telescope:
 
 - add commands
+
+# treesitter:
+
+- add commands
