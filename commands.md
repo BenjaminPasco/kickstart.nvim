@@ -15,3 +15,7 @@
 - :GBrowse to open the current file on the web front-end of your favorite hosting provider, with optional line range (try it in visual mode). Plugins are available for popular providers such as GitHub, GitLab, Bitbucket, Gitee, Pagure, Phabricator, Azure DevOps, and sourcehut.
 
 more at :help fugitive
+
+# telescope:
+
+- add commands
