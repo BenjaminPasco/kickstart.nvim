@@ -125,7 +125,6 @@ require('lazy').setup({
   { 'folke/which-key.nvim', opts = {} },
 
   -- "gc" to comment visual regions/lines
-  { 'numToStr/Comment.nvim', opts = {} },
 
   -- Fuzzy Finder (files, lsp, etc)
   {
