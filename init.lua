@@ -72,7 +72,7 @@ require('lazy').setup({
   -- Git related plugins
 
   -- Detect tabstop and shiftwidth automatically
-  'tpope/vim-sleuth',
+  -- 'tpope/vim-sleuth', no idea what does this do
 
   -- NOTE: This is where your plugins related to LSP can be installed.
   --  The configuration is done below. Search for lspconfig to find it below.
